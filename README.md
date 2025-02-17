@@ -11,7 +11,7 @@ This project is designed to help beginners understand SQL querying and performan
 
 - Learn how to use SQL for data analysis tasks such as aggregation, filtering, and ranking.
 - Understand how to calculate and manipulate data in a real-world dataset.
-- Gain hands-on experience with SQL functions like `COUNT`, `SUM`, `AVG`, `EXTRACT()`, and `DENSE_RANK()`.
+- Gain hands-on experience with SQL functions like `COUNT`, `SUM`, `AVG`, `DATE_FORMAT()`, and `DENSE_RANK()`.
 - Develop skills for performance analysis using SQL by solving different types of data problems related to user performance.
 
 ## Project Level: Beginner
@@ -56,7 +56,7 @@ Here are the SQL problems that you will solve as part of this project:
 ## Key SQL Concepts Covered
 
 - **Aggregation**: Using `COUNT`, `SUM`, `AVG` to aggregate data.
-- **Date Functions**: Using `EXTRACT()` and `TO_CHAR()` for manipulating dates.
+- **Date Functions**: Using ` `DATE_FORMAT()` and `WEEK` for manipulating dates.
 - **Conditional Aggregation**: Using `CASE WHEN` to handle positive and negative submissions.
 - **Ranking**: Using `DENSE_RANK()` to rank users based on their performance.
 - **Group By**: Aggregating results by groups (e.g., by user, by day, by week).
